@@ -28,7 +28,7 @@ A web-based tool for managing object ownership in **Qlik Sense Enterprise on Win
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/qseow-ownership-manager.git
+git clone https://github.com/davidfdash/qseow-ownership-manager.git
 cd qseow-ownership-manager
 ```
 
