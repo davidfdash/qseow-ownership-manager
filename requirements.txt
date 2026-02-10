@@ -1,0 +1,20 @@
+# Qlik Sense Enterprise on Windows Ownership Manager Dependencies
+
+# Web Framework
+reflex>=0.4.0
+
+# Database
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.0
+
+# HTTP Client
+requests>=2.31.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# Encryption for stored credentials
+cryptography>=41.0.0
+
+# Date handling
+python-dateutil>=2.8.2
